@@ -1,16 +1,12 @@
-# Topics in Software Engineering
+## Project Idea
+# Name
+ConnectASD
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+# Description
+ConnectASD will be an intuitive resource-sharing app designed to meet the needs of individuals on the autism spectrum (ASD) and their caregivers. It will offer a simple platform where users can effortlessly discover and access resources, services, and support tailored to their unique requirements.
 
-# Tools
-The tools that are installed with this devcontainer are:
+# Problem
+Currently, finding suitable resources and support services for individuals on the autism spectrum is often a complex and daunting task. Many existing platforms lack user-friendliness and may not address the specific needs of ASD individuals effectively. ConnectASD aims to simplify this process by providing a straightforward solution with curated resources and a supportive community.
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
-
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+# Primary Users
+ConnectASD will primarily cater to individuals on the autism spectrum, their families, caregivers, educators, and professionals in the autism community. The app will be designed with ease of use in mind, ensuring accessibility for individuals of all ages and levels of tech proficiency within the autism community.
